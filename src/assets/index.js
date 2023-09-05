@@ -1,0 +1,5 @@
+export {default as LogoWhite} from './logo-white.svg'  
+export {default as LogoDark} from './logo-dark.svg'  
+export {default as Img1} from './Img1.jpg'  
+export {default as Img2} from './Img2.jpg'  
+export {default as Img3} from './Img3.jpg'  
